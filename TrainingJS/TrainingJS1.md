@@ -1,6 +1,4 @@
-[:book:](../README.md) / [**TrainingJS**](README.md)
-
-Create your first JS function and print "Hello World!"
+[:book:](../README.md) / [**Training JS**](README.md) / **Create your first JS function and print "Hello World!"**
 
 ```js
 helloWorld = function() {
