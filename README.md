@@ -1,2 +1,2 @@
-**CodeWars**
-* [Training JS](TrainingJS/README.md)
+:book:
+* [**Training JS**](TrainingJS/README.md)
